@@ -1,27 +1,5 @@
 
-//////////////////// ALL ASSIGNMENTS INCLUDE THIS SECTION /////////////////////
-//
-// Title:            Eliza
-// Files:            Eliza.java
-// Semester:         Fall 2018
-//
-// Author:           Oliver Hoffman
-// Email:            odhoffman@wisc.edu
-// CS Login:         hoffman
-// Lecturer's Name:  Marc Renault
-// 
-//
-///////////////////////////// CREDIT OUTSIDE HELP /////////////////////////////
-//
-// Students who get help from sources other than their partner must fully 
-// acknowledge and credit those sources of help here.  Instructors and TAs do 
-// not need to be credited here, but tutors, friends, relatives, roommates 
-// strangers, etc do.
-//
-// Persons:          none
-// Online Sources:   none
-//
-/////////////////////////////// 80 COLUMNS WIDE ///////////////////////////////
+
 
 import java.io.File;
 import java.io.IOException;
